@@ -14,6 +14,7 @@ Dataset:
       -Sarees
       -Skirts
   - Wardrobe(testing dataset) in images/test all final consists of random 61 images of clothes, which can be identified using the code         given in final_project_code.py
+  - Use the images after unzipping them.
   
   The images classification is done using KNN Random Forest Classifier. 
   Various features are extracted such as histogram, harlick moments,energy,entropy,etc
