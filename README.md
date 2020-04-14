@@ -38,4 +38,5 @@ Dataset:
           -CNN(which needs GPU, due to which i was unable to implement this) 
           -Transfer learning(which will be used in the near future)
           -One shot learning
+          -GUI(which will be used in the near future)
   
