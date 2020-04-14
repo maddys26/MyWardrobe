@@ -30,7 +30,8 @@ Dataset:
     -mahotas
     
   # Limitations:
-    The accuracy of current model is not high enough, i.e at times, the model is unable to correctly able to identify the class an           images belongs to.
+    The accuracy of current model is not high enough, 
+    i.e at times, the model is unable to correctly able to identify the class an image belongs to.
     
   # Improvements:
      Other techniques such as 
